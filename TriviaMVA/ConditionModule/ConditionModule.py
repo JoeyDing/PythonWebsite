@@ -1,4 +1,14 @@
 
+with open("./data collection/weather.txt",'r') as data:
+     read_data = data.readlines()
+     
+     year=[]
+     maxtemp=[]
+     mintemp=[]
+     
+     for i in read_data:
+         year.append(i[0:4])
+         max
 
 monday = True
 freshCoffee = True
