@@ -2,6 +2,8 @@
 This script runs the application using a development server.
 It contains the definition of routes and views for the application.
 """
+
+
 #Do Not Touch
 from flask import Flask
 app = Flask(__name__)
@@ -10,19 +12,9 @@ app = Flask(__name__)
 wsgi_app = app.wsgi_app
 #End Do Not Touch
 
-# server/
-@app.route('/')
-def hello():
-    """Renders a sample page."""
-    #return "Hello World!"
-    return """<html>
-                       <head>
-                               <title>Hello, world</title>
-                       </head>
-                       <body>
-                                <h1>Hello,Joey</h1>
-                       </body>
-                   </html>"""
+# Import all of our routes from routes.py
+from routes import *;
+
 
 #Launching our server
 if __name__ == '__main__':
