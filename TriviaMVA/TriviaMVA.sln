@@ -9,6 +9,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ConditionModule", "Conditio
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MatlabplotlibExercise", "MatlabplotlibExercise\MatlabplotlibExercise.pyproj", "{08F3362D-FE5A-4627-B3BC-93965369A953}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LoopsModule", "LoopsModule\LoopsModule.pyproj", "{0DEAF411-C0EE-449F-8636-A6049B2FC72C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,8 @@ Global
 		{387CBD2A-FD41-41E6-A302-4204FD9FFCF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08F3362D-FE5A-4627-B3BC-93965369A953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{08F3362D-FE5A-4627-B3BC-93965369A953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DEAF411-C0EE-449F-8636-A6049B2FC72C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DEAF411-C0EE-449F-8636-A6049B2FC72C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
