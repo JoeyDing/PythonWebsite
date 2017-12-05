@@ -1,9 +1,9 @@
-PID_CODEPAGE
+PID_LASTAUTHOR
 range
 MSIError
-PID_LASTAUTHOR
+Table
 MSICOLINFO_NAMES
-sequence
+PID_CODEPAGE
 PID_CREATE_DTM
 add_data
 isinstance
@@ -50,7 +50,7 @@ UuidCreate
 MSIDBOPEN_CREATE
 Exception
 _directories
-Table
+sequence
 type_key
 PID_APPNAME
 _Unspecified

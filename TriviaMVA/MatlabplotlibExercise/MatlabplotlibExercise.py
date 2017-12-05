@@ -33,8 +33,8 @@ with open("./data collection/weather.txt",'r') as data:
      plt.title('Temperature since 1980')
      plt.xlabel('Year')
      plt.ylabel('Degrees in F')
+     plt.legend(['Max temp','Ave temp','Min temp'])
      plt.plot(year,maxtemp)
-     plt.text(0.5, 0.5, "maxtemp" , rotation=90)
      plt.plot(year,mintemp)
      plt.plot(year,avtemp)
      #here be attention tjat year must be a float number, cos year.append will reutn string

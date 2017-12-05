@@ -113,5 +113,6 @@ for color in ['red','black','green','blue']:
 answer = '0'
 
 while answer != '4':
+    #since input function will return string, so initilize the anser a string '0'. noy s number
     answer = input('What is 2+2 ? ')
 print('Yes! 2+2 = 4')
