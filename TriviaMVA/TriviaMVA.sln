@@ -15,6 +15,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WritingFiles", "WritingFile
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FuncitonsModule", "FuncitonsModule\FuncitonsModule.pyproj", "{C1227456-F6F4-47C7-A90B-BBEE20F026B1}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ErrorsHandlingExercise", "ErrorsHandlingExercise\ErrorsHandlingExercise.pyproj", "{F0073CF7-9425-4353-B9B6-167A91884451}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,8 @@ Global
 		{60F6EE54-908E-4B88-A62F-4ACB94AC2A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1227456-F6F4-47C7-A90B-BBEE20F026B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C1227456-F6F4-47C7-A90B-BBEE20F026B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0073CF7-9425-4353-B9B6-167A91884451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0073CF7-9425-4353-B9B6-167A91884451}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

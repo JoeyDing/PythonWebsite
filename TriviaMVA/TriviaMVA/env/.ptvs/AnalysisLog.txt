@@ -8374,3 +8374,7 @@ C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extens
 2017-12-05T11:45:24: Deleting 2 files
 2017-12-05T11:45:24: Deleting "D:\GitRepo\PythonWebsite\TriviaMVA\TriviaMVA\env\.ptvs\_dummy_threading.idb"
 2017-12-05T11:45:24: Deleting "D:\GitRepo\PythonWebsite\TriviaMVA\TriviaMVA\env\.ptvs\_dummy__threading_local.idb"
+
+2017-12-06T10:40:28: Start analysis
+2017-12-06T10:40:28: IncludeModulesFromModulePath = win32com
+2017-12-06T10:40:29: Deleting 0 files
